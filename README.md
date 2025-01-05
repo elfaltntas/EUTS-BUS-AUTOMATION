@@ -76,5 +76,5 @@ Sistem üç ana bileşenden oluşmaktadır:
 ## 📞 İletişim
 
 
-- 📧 elfaltntas123@gmail.com
+- 📧 elfaltntas123@gmail.com  <br/>
 Daha fazla bilgi için tıklayınız. <br/> [https://github.com/elfaltntas/EUTS-BUS-AUTOMATION/blob/main/BUS%20AUTOMATION.pdf]
